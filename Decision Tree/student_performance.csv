@@ -1,0 +1,16 @@
+Study_Hours,Attendance,Assignments_Submitted,Previous_Score,Pass_Fail
+2,60,4,40,Fail
+3,65,5,45,Fail
+4,70,6,50,Fail
+5,75,6,52,Pass
+6,80,7,55,Pass
+7,85,8,60,Pass
+8,90,9,70,Pass
+1,50,3,35,Fail
+2,55,4,38,Fail
+9,95,10,78,Pass
+10,98,10,85,Pass
+3,70,5,48,Fail
+4,72,5,50,Pass
+6,88,7,60,Pass
+5,68,6,49,Pass
